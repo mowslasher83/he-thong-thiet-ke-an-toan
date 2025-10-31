@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Hệ Thống Thiết Kế An Toàn đã sẵn sàng');
+    console.log('Hệ thống thiết kế an toàn đã sẵn sàng');
 });
