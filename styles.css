@@ -17,6 +17,6 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #d0d0d0;
+    background: #b0b0b0; /* Changed from #d0d0d0 to #b0b0b0 for better contrast */
     margin-top: 20px;
 }
